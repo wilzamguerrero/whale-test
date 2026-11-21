@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/whale_luminance.png",
+  "resources": {
+    "originalImage": "whale_original.png",
+    "croppedImage": "whale_cropped.png",
+    "thumbnailImage": "whale_thumbnail.png",
+    "luminanceImage": "whale_luminance.png"
+  },
+  "name": "whale",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 71,
+    "width": 428,
+    "height": 570,
+    "isRotated": false,
+    "originalWidth": 570,
+    "originalHeight": 570
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795226006816,
+  "updated": 1795226006816
+}
